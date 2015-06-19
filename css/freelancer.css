@@ -165,6 +165,11 @@ header .intro-text .skills {
     outline: 0;
 }
 
+.navbar .navbar-brand > img {
+    display: inline-block;
+    margin-top: -10px;
+}
+
 .navbar-default,
 .navbar-inverse {
     border: 0;
